@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LMAOnline Auth Panel", "LMAOnline Auth Panel\LMAOnline Auth Panel.csproj", "{FC6E0C63-4753-4D75-BC96-0F5DE36A96BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC6E0C63-4753-4D75-BC96-0F5DE36A96BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC6E0C63-4753-4D75-BC96-0F5DE36A96BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC6E0C63-4753-4D75-BC96-0F5DE36A96BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC6E0C63-4753-4D75-BC96-0F5DE36A96BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

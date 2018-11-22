@@ -1,0 +1,6 @@
+C:\Users\Candy\Desktop\Jtag\XBL Shit\Servers\LMAOnline v3\LMAOnline\LMAOnline\obj\Debug\LMAOnline.csprojResolveAssemblyReference.cache
+C:\Users\Candy\Desktop\Jtag\XBL Shit\Servers\LMAOnline v3\LMAOnline\LMAOnline\bin\Debug\LMAOnline.exe
+C:\Users\Candy\Desktop\Jtag\XBL Shit\Servers\LMAOnline v3\LMAOnline\LMAOnline\bin\Debug\LMAOnline.pdb
+C:\Users\Candy\Desktop\Jtag\XBL Shit\Servers\LMAOnline v3\LMAOnline\LMAOnline\bin\Debug\MySql.Data.dll
+C:\Users\Candy\Desktop\Jtag\XBL Shit\Servers\LMAOnline v3\LMAOnline\LMAOnline\obj\Debug\LMAOnline.exe
+C:\Users\Candy\Desktop\Jtag\XBL Shit\Servers\LMAOnline v3\LMAOnline\LMAOnline\obj\Debug\LMAOnline.pdb

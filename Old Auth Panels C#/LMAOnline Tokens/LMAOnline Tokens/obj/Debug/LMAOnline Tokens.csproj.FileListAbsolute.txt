@@ -1,0 +1,10 @@
+C:\Users\Candy\Documents\Visual Studio 2012\Projects\1\LMAOnline Tokens\LMAOnline Tokens\bin\Debug\LMAOnline Tokens.exe
+C:\Users\Candy\Documents\Visual Studio 2012\Projects\1\LMAOnline Tokens\LMAOnline Tokens\bin\Debug\LMAOnline Tokens.pdb
+C:\Users\Candy\Documents\Visual Studio 2012\Projects\1\LMAOnline Tokens\LMAOnline Tokens\bin\Debug\MySql.Data.dll
+C:\Users\Candy\Documents\Visual Studio 2012\Projects\1\LMAOnline Tokens\LMAOnline Tokens\obj\Debug\LMAOnline Tokens.csprojResolveAssemblyReference.cache
+C:\Users\Candy\Documents\Visual Studio 2012\Projects\1\LMAOnline Tokens\LMAOnline Tokens\obj\Debug\LMAOnline_Tokens.Main.resources
+C:\Users\Candy\Documents\Visual Studio 2012\Projects\1\LMAOnline Tokens\LMAOnline Tokens\obj\Debug\LMAOnline_Tokens.Properties.Resources.resources
+C:\Users\Candy\Documents\Visual Studio 2012\Projects\1\LMAOnline Tokens\LMAOnline Tokens\obj\Debug\LMAOnline_Tokens.SubForms.frm_createToken.resources
+C:\Users\Candy\Documents\Visual Studio 2012\Projects\1\LMAOnline Tokens\LMAOnline Tokens\obj\Debug\LMAOnline Tokens.csproj.GenerateResource.Cache
+C:\Users\Candy\Documents\Visual Studio 2012\Projects\1\LMAOnline Tokens\LMAOnline Tokens\obj\Debug\LMAOnline Tokens.exe
+C:\Users\Candy\Documents\Visual Studio 2012\Projects\1\LMAOnline Tokens\LMAOnline Tokens\obj\Debug\LMAOnline Tokens.pdb

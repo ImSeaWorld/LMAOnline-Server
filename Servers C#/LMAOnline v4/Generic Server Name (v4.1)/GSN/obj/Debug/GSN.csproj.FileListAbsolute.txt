@@ -1,0 +1,15 @@
+C:\Users\SeaWorld\Documents\Visual Studio 2012\Projects\PurgeAuth\PurgeAuth\bin\Debug\Generic Server Name.exe.config
+C:\Users\SeaWorld\Documents\Visual Studio 2012\Projects\PurgeAuth\PurgeAuth\bin\Debug\Generic Server Name.exe
+C:\Users\SeaWorld\Documents\Visual Studio 2012\Projects\PurgeAuth\PurgeAuth\bin\Debug\Generic Server Name.pdb
+C:\Users\SeaWorld\Documents\Visual Studio 2012\Projects\PurgeAuth\PurgeAuth\obj\Debug\Generic Server Name.exe
+C:\Users\SeaWorld\Documents\Visual Studio 2012\Projects\PurgeAuth\PurgeAuth\obj\Debug\Generic Server Name.pdb
+C:\Users\SeaWorld\Documents\Visual Studio 2012\Projects\PurgeAuth\PurgeAuth\obj\Debug\GSN.csprojResolveAssemblyReference.cache
+C:\Users\SeaWorld\Documents\Visual Studio 2012\Projects\PurgeAuth\GSN\bin\Debug\Generic Server Name.exe.config
+C:\Users\SeaWorld\Documents\Visual Studio 2012\Projects\PurgeAuth\GSN\obj\Debug\Generic Server Name.exe
+C:\Users\SeaWorld\Documents\Visual Studio 2012\Projects\PurgeAuth\GSN\obj\Debug\Generic Server Name.pdb
+C:\Users\SeaWorld\Documents\Visual Studio 2012\Projects\GSN Server\GSN\bin\Debug\Generic Server Name.exe.config
+C:\Users\SeaWorld\Documents\Visual Studio 2012\Projects\GSN Server\GSN\obj\Debug\Generic Server Name.exe
+C:\Users\SeaWorld\Documents\Visual Studio 2012\Projects\GSN Server\GSN\obj\Debug\Generic Server Name.pdb
+C:\Users\SeaWorld\Documents\Visual Studio 2012\Projects\GSN Server\GSN\bin\Debug\Generic Server Name.exe
+C:\Users\SeaWorld\Documents\Visual Studio 2012\Projects\GSN Server\GSN\bin\Debug\Generic Server Name.pdb
+C:\Users\SeaWorld\Documents\Visual Studio 2012\Projects\GSN Server\GSN\obj\Debug\GSN.csprojResolveAssemblyReference.cache

@@ -1,0 +1,16 @@
+C:\Users\Candy\Desktop\Jtag\XBL Shit\Servers\LMAOnline v3\LMAOnline\LMAOnline\bin\Release\LMAOnline.exe
+C:\Users\Candy\Desktop\Jtag\XBL Shit\Servers\LMAOnline v3\LMAOnline\LMAOnline\bin\Release\LMAOnline.pdb
+C:\Users\Candy\Desktop\Jtag\XBL Shit\Servers\LMAOnline v3\LMAOnline\LMAOnline\bin\Release\MySql.Data.dll
+C:\Users\Candy\Desktop\Jtag\XBL Shit\Servers\LMAOnline v3\LMAOnline\LMAOnline\obj\Release\LMAOnline.exe
+C:\Users\Candy\Desktop\Jtag\XBL Shit\Servers\LMAOnline v3\LMAOnline\LMAOnline\obj\Release\LMAOnline.pdb
+C:\Users\Candy\Desktop\Jtag\XBL Shit\Servers\LMAOnline v3\LMAOnline\LMAOnline\obj\Release\LMAOnline.csprojResolveAssemblyReference.cache
+C:\Users\Sala\Documents\Shit\Server\LMAOnline\obj\Release\LMAOnline.exe
+C:\Users\Sala\Documents\Shit\Server\LMAOnline\obj\Release\LMAOnline.pdb
+C:\Users\Sala\Documents\Shit\Server\LMAOnline\bin\Release\LMAOnline.exe
+C:\Users\Sala\Documents\Shit\Server\LMAOnline\bin\Release\LMAOnline.pdb
+C:\Users\Sala\Documents\Shit\Server\LMAOnline\obj\Release\LMAOnline.csprojResolveAssemblyReference.cache
+C:\Users\SeaWorld\Documents\Visual Studio 2012\Projects\LMAOnline v3\LMAOnline\LMAOnline\obj\Release\LMAOnline.exe
+C:\Users\SeaWorld\Documents\Visual Studio 2012\Projects\LMAOnline v3\LMAOnline\LMAOnline\obj\Release\LMAOnline.pdb
+C:\Users\SeaWorld\Documents\Visual Studio 2012\Projects\LMAOnline v3\LMAOnline\LMAOnline\bin\Release\LMAOnline.exe
+C:\Users\SeaWorld\Documents\Visual Studio 2012\Projects\LMAOnline v3\LMAOnline\LMAOnline\bin\Release\LMAOnline.pdb
+C:\Users\SeaWorld\Documents\Visual Studio 2012\Projects\LMAOnline v3\LMAOnline\LMAOnline\obj\Release\LMAOnline.csprojResolveAssemblyReference.cache

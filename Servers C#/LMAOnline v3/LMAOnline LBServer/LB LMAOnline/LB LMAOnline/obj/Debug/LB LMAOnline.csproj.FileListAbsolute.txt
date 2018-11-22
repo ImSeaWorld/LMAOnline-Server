@@ -1,0 +1,5 @@
+C:\Users\Candy\Desktop\Jtag\XBL Shit\Servers\LMAOnline v3\LMAOnline\LMAOnline LBServer\LB LMAOnline\LB LMAOnline\bin\Debug\LB LMAOnline.exe
+C:\Users\Candy\Desktop\Jtag\XBL Shit\Servers\LMAOnline v3\LMAOnline\LMAOnline LBServer\LB LMAOnline\LB LMAOnline\bin\Debug\LB LMAOnline.pdb
+C:\Users\Candy\Desktop\Jtag\XBL Shit\Servers\LMAOnline v3\LMAOnline\LMAOnline LBServer\LB LMAOnline\LB LMAOnline\obj\Debug\LB LMAOnline.csprojResolveAssemblyReference.cache
+C:\Users\Candy\Desktop\Jtag\XBL Shit\Servers\LMAOnline v3\LMAOnline\LMAOnline LBServer\LB LMAOnline\LB LMAOnline\obj\Debug\LB LMAOnline.exe
+C:\Users\Candy\Desktop\Jtag\XBL Shit\Servers\LMAOnline v3\LMAOnline\LMAOnline LBServer\LB LMAOnline\LB LMAOnline\obj\Debug\LB LMAOnline.pdb

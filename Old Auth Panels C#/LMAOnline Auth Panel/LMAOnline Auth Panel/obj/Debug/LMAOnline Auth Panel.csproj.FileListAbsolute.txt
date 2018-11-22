@@ -1,0 +1,39 @@
+C:\Users\Candy\Documents\Visual Studio 2012\Projects\1\LMAOnline Auth Panel\LMAOnline Auth Panel\obj\Debug\LMAOnline Auth Panel.csprojResolveAssemblyReference.cache
+C:\Users\Candy\Documents\Visual Studio 2012\Projects\1\LMAOnline Auth Panel\LMAOnline Auth Panel\obj\Debug\LMAOnline_Auth_Panel.Main.resources
+C:\Users\Candy\Documents\Visual Studio 2012\Projects\1\LMAOnline Auth Panel\LMAOnline Auth Panel\obj\Debug\LMAOnline_Auth_Panel.Properties.Resources.resources
+C:\Users\Candy\Documents\Visual Studio 2012\Projects\1\LMAOnline Auth Panel\LMAOnline Auth Panel\obj\Debug\LMAOnline Auth Panel.csproj.GenerateResource.Cache
+C:\Users\Candy\Documents\Visual Studio 2012\Projects\1\LMAOnline Auth Panel\LMAOnline Auth Panel\bin\Debug\LMAOnline Auth Panel.exe
+C:\Users\Candy\Documents\Visual Studio 2012\Projects\1\LMAOnline Auth Panel\LMAOnline Auth Panel\bin\Debug\LMAOnline Auth Panel.pdb
+C:\Users\Candy\Documents\Visual Studio 2012\Projects\1\LMAOnline Auth Panel\LMAOnline Auth Panel\bin\Debug\MySql.Data.dll
+C:\Users\Candy\Documents\Visual Studio 2012\Projects\1\LMAOnline Auth Panel\LMAOnline Auth Panel\obj\Debug\LMAOnline Auth Panel.exe
+C:\Users\Candy\Documents\Visual Studio 2012\Projects\1\LMAOnline Auth Panel\LMAOnline Auth Panel\obj\Debug\LMAOnline Auth Panel.pdb
+C:\Users\Candy\Documents\Visual Studio 2012\Projects\1\LMAOnline Auth Panel\LMAOnline Auth Panel\obj\Debug\LMAOnline.Forms.BannedConsoles.resources
+C:\Users\Candy\Documents\Visual Studio 2012\Projects\1\LMAOnline Auth Panel\LMAOnline Auth Panel\obj\Debug\LMAOnline.Forms.FailedConsoles.resources
+C:\Users\Candy\Documents\Visual Studio 2012\Projects\1\LMAOnline Auth Panel\LMAOnline Auth Panel\obj\Debug\LMAOnline.Forms.AddClient.resources
+C:\Users\Candy\Documents\Visual Studio 2012\Projects\1\LMAOnline Auth Panel\LMAOnline Auth Panel\obj\Debug\LMAOnline.Forms.BanConsole.resources
+F:\SW Shit\Importante\HDD Working Candy Shit\Documents\Visual Studio 2012\Projects\1\LMAOnline Auth Panel\LMAOnline Auth Panel\obj\Debug\LMAOnline Auth Panel.exe
+F:\SW Shit\Importante\HDD Working Candy Shit\Documents\Visual Studio 2012\Projects\1\LMAOnline Auth Panel\LMAOnline Auth Panel\obj\Debug\LMAOnline Auth Panel.pdb
+C:\Users\SeaWorld\Desktop\Old COmp Shit\Projects\1\LMAOnline Auth Panel\LMAOnline Auth Panel\obj\Debug\LMAOnline Auth Panel.exe
+C:\Users\SeaWorld\Desktop\Old COmp Shit\Projects\1\LMAOnline Auth Panel\LMAOnline Auth Panel\obj\Debug\LMAOnline Auth Panel.pdb
+C:\Users\SeaWorld\Desktop\Old COmp Shit\Projects\1\LMAOnline Auth Panel\LMAOnline Auth Panel\bin\Debug\LMAOnline Auth Panel.exe
+C:\Users\SeaWorld\Desktop\Old COmp Shit\Projects\1\LMAOnline Auth Panel\LMAOnline Auth Panel\bin\Debug\LMAOnline Auth Panel.pdb
+C:\Users\SeaWorld\Desktop\Old COmp Shit\Projects\1\LMAOnline Auth Panel\LMAOnline Auth Panel\obj\Debug\LMAOnline Auth Panel.csprojResolveAssemblyReference.cache
+C:\Users\SeaWorld\Desktop\Old COmp Shit\Projects\1\LMAOnline Auth Panel\LMAOnline Auth Panel\obj\Debug\LMAOnline.Forms.BannedConsoles.resources
+C:\Users\SeaWorld\Desktop\Old COmp Shit\Projects\1\LMAOnline Auth Panel\LMAOnline Auth Panel\obj\Debug\LMAOnline.Forms.FailedConsoles.resources
+C:\Users\SeaWorld\Desktop\Old COmp Shit\Projects\1\LMAOnline Auth Panel\LMAOnline Auth Panel\obj\Debug\LMAOnline.Forms.AddClient.resources
+C:\Users\SeaWorld\Desktop\Old COmp Shit\Projects\1\LMAOnline Auth Panel\LMAOnline Auth Panel\obj\Debug\LMAOnline.Forms.BanConsole.resources
+C:\Users\SeaWorld\Desktop\Old COmp Shit\Projects\1\LMAOnline Auth Panel\LMAOnline Auth Panel\obj\Debug\LMAOnline_Auth_Panel.Main.resources
+C:\Users\SeaWorld\Desktop\Old COmp Shit\Projects\1\LMAOnline Auth Panel\LMAOnline Auth Panel\obj\Debug\LMAOnline_Auth_Panel.Properties.Resources.resources
+C:\Users\SeaWorld\Desktop\Old COmp Shit\Projects\1\LMAOnline Auth Panel\LMAOnline Auth Panel\obj\Debug\LMAOnline Auth Panel.csproj.GenerateResource.Cache
+C:\Users\SeaWorld\Documents\Visual Studio 2012\Projects\1 Old Comp Projects\1\LMAOnline Auth Panel\LMAOnline Auth Panel\obj\Debug\LMAOnline Auth Panel.exe
+C:\Users\SeaWorld\Documents\Visual Studio 2012\Projects\1 Old Comp Projects\1\LMAOnline Auth Panel\LMAOnline Auth Panel\obj\Debug\LMAOnline Auth Panel.pdb
+C:\Users\SeaWorld\Documents\Visual Studio 2012\Projects\1 Old Comp Projects\1\LMAOnline Auth Panel\LMAOnline Auth Panel\bin\Debug\LMAOnline Auth Panel.exe
+C:\Users\SeaWorld\Documents\Visual Studio 2012\Projects\1 Old Comp Projects\1\LMAOnline Auth Panel\LMAOnline Auth Panel\bin\Debug\LMAOnline Auth Panel.pdb
+C:\Users\SeaWorld\Documents\Visual Studio 2012\Projects\1 Old Comp Projects\1\LMAOnline Auth Panel\LMAOnline Auth Panel\obj\Debug\LMAOnline Auth Panel.csprojResolveAssemblyReference.cache
+C:\Users\SeaWorld\Documents\Visual Studio 2012\Projects\1 Old Comp Projects\1\LMAOnline Auth Panel\LMAOnline Auth Panel\obj\Debug\LMAOnline.Forms.BannedConsoles.resources
+C:\Users\SeaWorld\Documents\Visual Studio 2012\Projects\1 Old Comp Projects\1\LMAOnline Auth Panel\LMAOnline Auth Panel\obj\Debug\LMAOnline.Forms.FailedConsoles.resources
+C:\Users\SeaWorld\Documents\Visual Studio 2012\Projects\1 Old Comp Projects\1\LMAOnline Auth Panel\LMAOnline Auth Panel\obj\Debug\LMAOnline.Forms.AddClient.resources
+C:\Users\SeaWorld\Documents\Visual Studio 2012\Projects\1 Old Comp Projects\1\LMAOnline Auth Panel\LMAOnline Auth Panel\obj\Debug\LMAOnline.Forms.BanConsole.resources
+C:\Users\SeaWorld\Documents\Visual Studio 2012\Projects\1 Old Comp Projects\1\LMAOnline Auth Panel\LMAOnline Auth Panel\obj\Debug\LMAOnline_Auth_Panel.Main.resources
+C:\Users\SeaWorld\Documents\Visual Studio 2012\Projects\1 Old Comp Projects\1\LMAOnline Auth Panel\LMAOnline Auth Panel\obj\Debug\LMAOnline_Auth_Panel.Properties.Resources.resources
+C:\Users\SeaWorld\Documents\Visual Studio 2012\Projects\1 Old Comp Projects\1\LMAOnline Auth Panel\LMAOnline Auth Panel\obj\Debug\LMAOnline Auth Panel.csproj.GenerateResource.Cache

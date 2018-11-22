@@ -1,0 +1,5 @@
+F:\Dev\Xbox 360\Generic Server Name\1.0.0.2\Server\GSN\obj\Debug\GSN.csprojResolveAssemblyReference.cache
+F:\Dev\Xbox 360\Generic Server Name\1.0.0.2\Server\GSN\bin\Debug\GSN.exe
+F:\Dev\Xbox 360\Generic Server Name\1.0.0.2\Server\GSN\bin\Debug\GSN.pdb
+F:\Dev\Xbox 360\Generic Server Name\1.0.0.2\Server\GSN\obj\Debug\GSN.exe
+F:\Dev\Xbox 360\Generic Server Name\1.0.0.2\Server\GSN\obj\Debug\GSN.pdb

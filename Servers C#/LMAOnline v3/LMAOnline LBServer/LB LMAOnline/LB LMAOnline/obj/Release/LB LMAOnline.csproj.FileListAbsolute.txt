@@ -1,0 +1,12 @@
+C:\Users\Candy\Desktop\Jtag\XBL Shit\Servers\LMAOnline v3\LMAOnline\LMAOnline LBServer\LB LMAOnline\LB LMAOnline\bin\Release\LB LMAOnline.exe
+C:\Users\Candy\Desktop\Jtag\XBL Shit\Servers\LMAOnline v3\LMAOnline\LMAOnline LBServer\LB LMAOnline\LB LMAOnline\bin\Release\LB LMAOnline.pdb
+C:\Users\Candy\Desktop\Jtag\XBL Shit\Servers\LMAOnline v3\LMAOnline\LMAOnline LBServer\LB LMAOnline\LB LMAOnline\obj\Release\LB LMAOnline.exe
+C:\Users\Candy\Desktop\Jtag\XBL Shit\Servers\LMAOnline v3\LMAOnline\LMAOnline LBServer\LB LMAOnline\LB LMAOnline\obj\Release\LB LMAOnline.pdb
+C:\Users\Candy\Desktop\Jtag\XBL Shit\Servers\LMAOnline v3\LMAOnline\LMAOnline LBServer\LB LMAOnline\LB LMAOnline\obj\Release\LB LMAOnline.csprojResolveAssemblyReference.cache
+C:\Users\SeaWorld\Documents\Visual Studio 2012\Projects\LMAOnline v3\LMAOnline\LMAOnline LBServer\LB LMAOnline\LB LMAOnline\obj\Release\LB LMAOnline.exe
+C:\Users\SeaWorld\Documents\Visual Studio 2012\Projects\LMAOnline v3\LMAOnline\LMAOnline LBServer\LB LMAOnline\LB LMAOnline\obj\Release\LB LMAOnline.pdb
+C:\Users\SeaWorld\Documents\Visual Studio 2012\Projects\LMAOnline v3\LMAOnline\LMAOnline LBServer\LB LMAOnline\LB LMAOnline\bin\Release\LB LMAOnline.exe
+C:\Users\SeaWorld\Documents\Visual Studio 2012\Projects\LMAOnline v3\LMAOnline\LMAOnline LBServer\LB LMAOnline\LB LMAOnline\bin\Release\LB LMAOnline.pdb
+C:\Users\SeaWorld\Documents\Visual Studio 2012\Projects\LMAOnline v3\LMAOnline\LMAOnline LBServer\LB LMAOnline\LB LMAOnline\obj\Release\LB LMAOnline.csprojResolveAssemblyReference.cache
+C:\Users\SeaWorld\Documents\Visual Studio 2012\Projects\LMAOnline v3\LMAOnline\LMAOnline LBServer\LB LMAOnline\LB LMAOnline\obj\Release\LB_LMAOnline.Forms.frm_iniEdit.resources
+C:\Users\SeaWorld\Documents\Visual Studio 2012\Projects\LMAOnline v3\LMAOnline\LMAOnline LBServer\LB LMAOnline\LB LMAOnline\obj\Release\LB LMAOnline.csproj.GenerateResource.Cache

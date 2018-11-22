@@ -1,0 +1,7 @@
+c:\users\seaworld\documents\visual studio 2012\Projects\PurgeAuth\PurgeAuth\bin\Debug\PurgeAuth.exe.config
+c:\users\seaworld\documents\visual studio 2012\Projects\PurgeAuth\PurgeAuth\bin\Debug\PurgeAuth.exe
+c:\users\seaworld\documents\visual studio 2012\Projects\PurgeAuth\PurgeAuth\bin\Debug\PurgeAuth.pdb
+c:\users\seaworld\documents\visual studio 2012\Projects\PurgeAuth\PurgeAuth\obj\Debug\PurgeAuth.csprojResolveAssemblyReference.cache
+c:\users\seaworld\documents\visual studio 2012\Projects\PurgeAuth\PurgeAuth\obj\Debug\PurgeAuth.exe
+c:\users\seaworld\documents\visual studio 2012\Projects\PurgeAuth\PurgeAuth\obj\Debug\PurgeAuth.pdb
+C:\Users\SeaWorld\Documents\Visual Studio 2012\Projects\PurgeAuth\PurgeAuth\bin\Debug\Generic Server Name.exe.config
