@@ -1,4 +1,4 @@
-# LMAOnline
+# LMAOnline Stealth Server
 
 LMAOnline was the name of my Xbox 360 Jtag/RGH server.
 
